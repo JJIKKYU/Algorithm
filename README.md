@@ -9,5 +9,6 @@
 | 03 | Reverse Integer | [7](https://leetcode.com/problems/reverse-integer/) | 🥈 Medium | | [C++](./Leetcode/medium/7.cpp) | [Swift](./Leetcode/medium/7.swift) |
 | 04 | Palindrome Number | [9](https://leetcode.com/problems/palindrome-number/) | 🥉 Easy | | [C++](./Leetcode/easy/9.cpp) | [Swift](./Leetcode/easy/9.swift) |
 | 05 | Roman to Integer | [13](https://leetcode.com/problems/roman-to-integer/) | 🥉 Easy | | [C++](./Leetcode/easy/13.cpp) | [Swift](./Leetcode/easy/13.swift) |
+| 06 | Binary Tree Inorder Traversal | [94](https://leetcode.com/problems/binary-tree-inorder-traversal/) | 🥉 Easy | | [C++](./Leetcode/easy/94.cpp) | [Swift](./Leetcode/easy/94.swift) |
 
 ### 🥇 Hard
